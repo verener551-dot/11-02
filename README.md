@@ -41,7 +41,7 @@
 
 ### Ответ
 
-![Скриншот-3](https://github.com/verener551-dot/11-02/blob/main/img/lm3.png)
+![Скриншот-3](https://github.com/verener551-dot/11-02/blob/main/img/Im3.png)
 
 
 
