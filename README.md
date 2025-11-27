@@ -39,7 +39,7 @@
 
 ### Ответ
 
-![Скриншот-3](https://github.com/verener551-dot/11-02/blob/main/img/Im7.png)
+![Скриншот-3](https://github.com/verener551-dot/11-02/blob/main/img/im7.png)
 
 
 
