@@ -21,7 +21,7 @@
 Установите и запустите memcached.
 ### Ответ
 
-![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/img1.png)
+![Скриншот-1](https://github.com/verener551-dot/11-02/blob/main/img/img1.png)
 
 ### Задание 3
 
